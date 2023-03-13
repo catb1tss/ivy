@@ -1,4 +1,4 @@
-# global
+# globall
 import copy
 import warnings
 from ivy._version import __version__ as __version__
