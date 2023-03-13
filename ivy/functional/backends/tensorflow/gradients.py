@@ -6,7 +6,7 @@ signature.
 import tensorflow as tf
 from typing import Sequence, Union, Optional, Callable
 
-# localt
+# local
 import ivy
 from ivy.functional.ivy.gradients import (
     _get_required_float_variables,
