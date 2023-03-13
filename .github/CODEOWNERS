@@ -2,9 +2,9 @@
 ivy/func_wrapper.py @CatB1t
 ivy/functional/ivy/gradients.py @CatB1t
 ivy/functional/ivy/backends/*/gradients.py @CatB1t
-ivy/functional/ivy/experimental/gradients.py @CatBit
-ivy/functional/ivy/backends/*/experimental/gradients.py @CatBit
-ivy/utils/backend @VedPatwardhan @CatB1t
+ivy/functional/ivy/experimental/gradients.py @CatB1t
+ivy/functional/ivy/backends/*/experimental/gradients.py @CatB1t
+ivy/utils/backend @CatB1t
 ivy/utils/backend/ast_helpers.py @CatB1t
 
 
