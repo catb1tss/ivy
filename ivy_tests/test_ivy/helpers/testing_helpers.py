@@ -1,4 +1,4 @@
-# generalt
+# general
 import importlib
 import inspect
 from typing import List
